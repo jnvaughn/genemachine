@@ -1,5 +1,6 @@
 ## People
 [Justin Vaughn](url)
+
 [Walid Korani](url)
 
 ## Projects
