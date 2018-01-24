@@ -1,7 +1,7 @@
 ## People
-[Justin Vaughn](url)
+[Justin Vaughn, PI](url)
 
-[Walid Korani](url)
+[Walid Korani, Postdoctoral Research Associate](url)
 
 ## Projects
 
