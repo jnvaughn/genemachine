@@ -2,10 +2,10 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ## People
 [Justin Vaughn, Principal Investigator](url)
-#![alt text](./images/jnvPic1.png "Justin Vaughn")
+#![alt text](./pics/jnvPic1.png "Justin Vaughn")
 
 [Walid Korani, Postdoctoral Research Associate](url)
-#![alt text](./images/walidPic1.png "Walid Korani")
+#![alt text](./pics/walidPic1.png "Walid Korani")
 
 ## Projects
 [Visualization and simulation of controlled crosses](url)
