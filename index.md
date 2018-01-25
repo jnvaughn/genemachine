@@ -10,7 +10,15 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 ![alt text](./pics/walidPic1.png "Walid Korani")
 
 ## Projects
-[Visualization and simulation of controlled crosses](url)
+[Iterative QTL-seq applied oligogenic traits in peanut and rice](./pages/iQTL.md)
+
+[Historical genomics of complex traits in soybean and rice](./pages/histGenomics.md)
+
+[Leap-frog genoics: Fully exploiting model systems data in gene identification](./pages/leapFrog.md)
+
+[Simulation and visualization of controlled crosses](./pages/simAndVis.md)
+
+[Fast-forward genetics in sorghum and peach](./pages/ffGenetics.md)
 
 ## Software
 
