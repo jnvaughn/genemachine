@@ -1,16 +1,10 @@
 ## Justin Vaughn
 Computational biologist
-
 Genomics and Bioinformatics Research Unit, USDA-ARS
-
 Rm. 125 USDA Russell Research Center
-
 950 College Station Rd, Athens, GA 30605
-
 justin.vaughn@ars.usda.gov
-
 (706) 546-3185
-
 genemachine.net
 
 Ph.D., Genetics and Bioinformatics, 2011.
