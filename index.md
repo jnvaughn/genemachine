@@ -19,7 +19,7 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ![alt text](./pics/histGenPic1.png "Haplotypes through the ages")
 
-[Leap-frog genomics: Fully exploiting model systems data in gene identification](./pages/leapFrog.md)
+[Leap-frog genomics: Fully exploiting model systems for gene identification](./pages/leapFrog.md)
 
 ![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs")
 
