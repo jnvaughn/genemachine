@@ -11,21 +11,25 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ## Projects
 
-[Iterative QTL-seq applied oligogenic traits in peanut and rice](./pages/iQTL.md)
+[Iterative QTL-seq applied to multi-genic traits in peanut and rice](./pages/iQTL.md)
 
-#![alt text](./pics/iQTLPic1.png "White mold")
+![alt text](./pics/iQTLPic1.png "White mold")
 
 [Historical genomics of complex traits in soybean and rice](./pages/histGenomics.md)
 
-#![alt text](./pics/histGenPic1.png "Haplotypes through the ages")
+![alt text](./pics/histGenPic1.png "Haplotypes through the ages")
 
 [Leap-frog genomics: Fully exploiting model systems data in gene identification](./pages/leapFrog.md)
 
+![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs")
+
 [Simulation and visualization of controlled crosses](./pages/simAndVis.md)
 
-#![alt text](./pics/simVis1.png "Biparental cross")
+![alt text](./pics/simVis1.png "Biparental cross")
 
 [Fast-forward genetics in sorghum and peach](./pages/ffGenetics.md)
+
+![alt text](./pics/ffGenePic1.png "Peach Sports")
 
 ## Software
 
