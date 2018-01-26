@@ -14,4 +14,8 @@ Takagi, H., Abe, A., Yoshida, K., Kosugi, S., Natsume, S., Mitsuoka, C., ... & I
 
 Joshua Clevenger, Mars Corporation and UGA
 
+Corley Holbrook, USDA-ARS and UGA
+
+Timothy Brenneman, UGA
+
 Anna McClung, USDA-ARS
