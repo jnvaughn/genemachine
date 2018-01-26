@@ -8,7 +8,7 @@ justin.vaughn@ars.usda.gov
 (706) 546-3185
 genemachine.net
 
-Ph.D., Genetics and Bioinformatics, 2011.
+Ph.D., Genetics and Bioinformatics, 2011
 University of Tennessee, Knoxville, Tennessee, USA
 
 B.S., Biology, 2003
