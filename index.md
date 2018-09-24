@@ -37,8 +37,8 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 A genomics-enabled simulation language for design and optimization of breeding schemes and genetic mapping experiments
 
 ## Tutorials
-Using Galaxy on Ceres
-[Link](./pics/galaxyOnCeres.pdf "Galaxy")
+
+[Using Galaxy on Ceres](./pics/galaxyOnCeres.pdf "Galaxy")
 
 
 
