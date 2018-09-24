@@ -36,6 +36,9 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 [Crossword](https://github.com/USDA-ARS-GBRU/crossword)
 A genomics-enabled simulation language for design and optimization of breeding schemes and genetic mapping experiments
 
+## Tutorials
+Using Galaxy on Ceres
+[Link](./pics/galaxyOnCeres.pdf "Galaxy")
 
 
 
