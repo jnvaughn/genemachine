@@ -1,4 +1,4 @@
-# Leap-frog genomics: Fully exploiting model systems for gene identification
+# Gene Sieve: Fully exploiting model systems for gene identification
 
 ## Project Summary
 
