@@ -25,8 +25,8 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs")
 
-[Simulation and visualization of controlled crosses](./pages/simAndVis.md)
-See recent [publication]()
+[Simulation and visualization of controlled crosses](./pages/simAndVis.md)   
+See recent [publication](https://www.nature.com/articles/s41598-018-38348-y)
 
 ![alt text](./pics/simVis1.png "Biparental cross")
 
