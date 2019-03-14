@@ -8,4 +8,8 @@ Currently, nearly every agronomically important crop has a reference genome and 
 
 To address this need, we are working on a breeding simulation language, called “crossword” that runs through the R statistical programming framework.  Crossword has native support for importing FASTA, GFF, VCF, and HAPMAP file formats and uses these files to make realistic simulations much more applicable and feasible.  In addition, the crossword language is built on the concept of family-structure in breeding population, given users an intuitive and powerful way to rapidly brainstorm and simulate complex pedigrees, while exploring the required scale of an experiment.
 
+## Relevant publications
+
+Korani W, Vaughn JN. Crossword: A data-driven simulation language for the design of genetic-mapping experiments and breeding strategies. Scientific Reports. 2019;9: 4386. doi:10.1038/s41598-018-38348-y
+
 [Return to home page](http://genemachine.net)
