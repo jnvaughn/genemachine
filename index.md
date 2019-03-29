@@ -3,6 +3,7 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 ## Postdoctoral research associate needed: Please see the [advertisement](./pages/hqPostdoc.md)
 
 ## People
+
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) |
 | :---: | :---: |
 | ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/walidPic1.png "Walid Korani") |
