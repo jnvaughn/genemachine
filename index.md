@@ -1,7 +1,5 @@
 Our group is part of the USDA's Agricultural Research Service (ARS), and we are closely affiliated with the University of Georgia in Athens, Georgia.  We have lab-specific research interests but also contribute bioinformatic and design support for many ARS projects across the Southeastern United States.  Please contact us with questions, particularly if you are looking for graduate or postdoctoral experience that intersects crop improvement, genomics, and bioinformatics.  
 
-## Postdoctoral research associate needed: Please see the [advertisement](./pages/hqPostdoc.md)
-
 ## People
 
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) |
