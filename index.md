@@ -2,9 +2,9 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ## People
 
-| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) |
+| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Brian Nadon, Postdoctoral Research Associate](https://github.com/w-korani) | [Walid Korani, Postdoctoral Research Associate] (https://github.com/w-korani) (RECENTLY MOVED TO [STgenetics](https://www.stgen.com/)) |
 | :---: | :---: |
-| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/walidPic1.png "Walid Korani") |
+| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/IMG_0896_2.png "Brian Nadon") | ![alt text](./pics/walidPic1.png "Walid Korani") |
 
 ## Projects
 
@@ -12,9 +12,9 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 | :---: | :---: | :---: |
 | ![alt text](./pics/iQTLPic1.png "White mold") | ![alt text](./pics/histGenPic1.png "Haplotypes through the ages") | ![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs") |
 
-| [Simulation and visualization of controlled crosses](./pages/simAndVis.md) (See recent [publication](https://www.nature.com/articles/s41598-018-38348-y)) | [Fast-forward genetics in sorghum and peach](./pages/ffGenetics.md) |
-| :---: | :---: |
-| ![alt text](./pics/simVis1.png "Biparental cross") | ![alt text](./pics/ffGenePic1.png "Peach Sports") |
+| [Gene annotation and effect prediction in pan-genomic context](./pages/panGenomics.md) | [Simulation and visualization of controlled crosses](./pages/simAndVis.md) (See recent [publication](https://www.nature.com/articles/s41598-018-38348-y)) | [Fast-forward genetics in sorghum and peach](./pages/ffGenetics.md) |
+| :---: | :---: | :---: |
+| ![alt text](./pics/panGenome.png "Pangenome tube") | ![alt text](./pics/simVis1.png "Biparental cross") | ![alt text](./pics/ffGenePic1.png "Peach Sports") |
 
 
 ## Software
