@@ -3,7 +3,7 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 ## People
 
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Brian Nadon, Postdoctoral Research Associate](https://github.com/w-korani) | [Walid Korani, Postdoctoral Research Associate] (https://github.com/w-korani) (RECENTLY MOVED TO [STgenetics](https://www.stgen.com/)) |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/IMG_0896_2.png "Brian Nadon") | ![alt text](./pics/walidPic1.png "Walid Korani") |
 
 ## Projects
