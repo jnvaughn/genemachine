@@ -22,6 +22,9 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 [Crossword](https://github.com/USDA-ARS-GBRU/crossword)
 A genomics-enabled simulation language for design and optimization of breeding schemes and genetic mapping experiments
 
+[QTLsurge](https://github.com/USDA-ARS-GBRU/QTLsurge)
+Software for iterative genotyping design in a QTL-seq experiment
+
 ## Tutorials
 
 [Using Galaxy on Ceres](./pics/galaxyOnCeres.pdf "Galaxy")
