@@ -4,7 +4,7 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Brian Nadon, Postdoctoral Research Associate](https://twitter.com/briandnadon?lang=en) | [Xuewen Wang, Research Associate] (https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en) |
 | :---: | :---: | :---: |
-| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/IMG_0896_3.png "Brian Nadon") | ![alt text]("Xuewen Wang") |
+| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/IMG_0896_3.png "Brian Nadon") | ![alt text](./pics/xuewenPic.png "Xuewen Wang") |
 
 ## Projects
 
