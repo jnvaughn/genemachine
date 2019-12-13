@@ -29,7 +29,7 @@ Software for iterative genotyping design in a QTL-seq experiment
 
 [Using Galaxy on Ceres](./pics/galaxyOnCeres.pdf "Galaxy")
 
-## Former People
+## Former Members
 
 | [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (RECENTLY MOVED TO [STgenetics](https://www.stgen.com/)) |
 | :---: |
