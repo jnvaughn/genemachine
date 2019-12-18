@@ -2,9 +2,13 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ## People
 
-| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Brian Nadon, Postdoctoral Research Associate](https://twitter.com/briandnadon?lang=en) | [Xuewen Wang, Research Associate](https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en) |
-| :---: | :---: | :---: |
-| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/IMG_0896_3.png "Brian Nadon") | ![alt text](./pics/xuewenPic.png "Xuewen Wang") |
+| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Xuewen Wang, Research Associate](https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en) |
+| :---: | :---: |
+| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/xuewenPic.png "Xuewen Wang") |
+
+| [Brian Nadon, Postdoctoral Research Associate](https://twitter.com/briandnadon?lang=en) | [Brian Abernathy, Bioinformatician](https://scholar.google.com/citations?user=D6omdmYAAAAJ) |
+| :---: | :---: |
+| ![alt text](./pics/IMG_0896_3.png "Brian Nadon") | ![alt text](./pics/abernathy_2.png "Brian Abernathy") |
 
 ## Projects
 
@@ -31,6 +35,6 @@ Software for iterative genotyping design in a QTL-seq experiment
 
 ## Former Members
 
-| [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (RECENTLY MOVED TO [STgenetics](https://www.stgen.com/)) |
+| [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (now at [STgenetics](https://www.stgen.com/)) |
 | :---: |
 | ![alt text](./pics/walidPic1.png "Walid Korani") |
