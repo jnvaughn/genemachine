@@ -38,3 +38,7 @@ Software for iterative genotyping design in a QTL-seq experiment
 | [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (now at [STgenetics](https://www.stgen.com/)) |
 | :---: |
 | ![alt text](./pics/walidPic1.png "Walid Korani") |
+
+## The Basic Idea
+<img src="pics/wFile.jpeg">
+by Waylon Vaughn
