@@ -16,10 +16,12 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 | :---: | :---: | :---: |
 | ![alt text](./pics/iQTLPic1.png "White mold") | ![alt text](./pics/histGenPic1.png "Haplotypes through the ages") | ![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs") |
 
-| [Gene annotation and effect prediction in pan-genomic context](./pages/panGenome.md) | [Simulation and visualization of controlled crosses](./pages/simAndVis.md) (See recent [publication](https://www.nature.com/articles/s41598-018-38348-y)) | [Fast-forward genetics in sorghum and peach](./pages/ffGenetics.md) |
+| [Gene annotation and effect prediction in pan-genomic context](./pages/panGenome.md) | [Simulation and visualization of controlled crosses](./pages/simAndVis.md)  | [Fast-forward genetics in sorghum and peach](./pages/ffGenetics.md) |
 | :---: | :---: | :---: |
 | ![alt text](./pics/panGenome.png "Pangenome tube") | ![alt text](./pics/simVis1.png "Biparental cross") | ![alt text](./pics/ffGenePic1.png "Peach Sports") |
 
+## Publications
+[Google Scholar summary](https://scholar.google.com/citations?user=Udhv0SkAAAAJ&hl=en&oi=ao)
 
 ## Software
 
