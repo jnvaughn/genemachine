@@ -21,7 +21,7 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 | ![alt text](./pics/panGenome.png "Pangenome tube") | ![alt text](./pics/simVis1.png "Biparental cross") | ![alt text](./pics/ffGenePic1.png "Peach Sports") |
 
 ## Publications
-[Google Scholar summary](https://scholar.google.com/citations?user=Udhv0SkAAAAJ&hl=en&oi=ao)
+[Google Scholar summary](https://scholar.google.com/citations?hl=en&user=Udhv0SkAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Software
 
