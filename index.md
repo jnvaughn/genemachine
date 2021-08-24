@@ -37,7 +37,7 @@ Software for iterative genotyping design in a QTL-seq experiment
 
 ## Former Members
 
-| [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (now at [STgenetics](https://www.stgen.com/)) |
+| [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (now at [HudsonAlpha](https://www.hudsonalpha.org/)) |
 | :---: |
 | ![alt text](./pics/walidPic1.png "Walid Korani") |
 
