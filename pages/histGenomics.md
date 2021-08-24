@@ -10,6 +10,8 @@ In this project, we use emerging whole-genome resequencing data in rice and soyb
 	
 ## Relevant publications
 
+[Vaughn JN, Korani W, Stein JC, Edwards JD, Peterson DG, Simpson SA, et al. Gene disruption by structural mutations drives selection in US rice breeding over the last century. PLOS Genetics. 2021;17: e1009389](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009389)
+
 Vaughn, J. N., & Li, Z. (2016). Genomic signatures of North American soybean improvement Inform diversity enrichment strategies and clarify the impact of hybridization. G3: Genes, Genomes, Genetics, 6(9), 2693-2705.
 
 ## Collaborators
