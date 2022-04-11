@@ -2,13 +2,13 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ## People
 
-| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Xuewen Wang, Research Associate](https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en) |
+| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano](./) |
 | :---: | :---: |
-| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/xuewenPic.png "Xuewen Wang") |
+| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/andrew_ontano.JPG "Andrew Ontano") |
 
-| [Brian Nadon, Postdoctoral Research Associate](https://twitter.com/briandnadon?lang=en) | [Brian Abernathy, Bioinformatician](https://scholar.google.com/citations?user=D6omdmYAAAAJ) |
-| :---: | :---: |
-| ![alt text](./pics/IMG_0896_3.png "Brian Nadon") | ![alt text](./pics/abernathy_2.png "Brian Abernathy") |
+|  [Brian Abernathy, Bioinformatician](https://scholar.google.com/citations?user=D6omdmYAAAAJ) |
+| :---: |
+| ![alt text](./pics/abernathy_2.png "Brian Abernathy") |
 
 ## Projects
 
@@ -37,9 +37,11 @@ Software for iterative genotyping design in a QTL-seq experiment
 
 ## Former Members
 
-| [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (now at [HudsonAlpha](https://www.hudsonalpha.org/)) |
-| :---: |
-| ![alt text](./pics/walidPic1.png "Walid Korani") |
+[Xuewen Wang, Research Associate](https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en) (now at [Center for Human Identification](https://www.unthsc.edu/center-for-human-identification/))
+
+[Brian Nadon, Postdoctoral Research Associate](https://www.linkedin.com/in/brian-nadon-3b205470) (now at [Thermo Fisher Scientific](https://www.linkedin.com/company/thermo-fisher-scientific?trk=public_profile_topcard-current-company))
+
+[Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (now at [HudsonAlpha](https://www.hudsonalpha.org/))
 
 ## The Basic Idea
 <img src="pics/wFile.jpeg">
