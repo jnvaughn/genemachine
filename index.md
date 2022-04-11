@@ -2,7 +2,7 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ## People
 
-| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano](./) |
+| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) |
 | :---: | :---: |
 | ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/andrew_ontano.png "Andrew Ontano") |
 
