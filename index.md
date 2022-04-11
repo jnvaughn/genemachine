@@ -25,6 +25,9 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ## Software
 
+[PanPipes](https://github.com/USDA-ARS-GBRU/PanPipes)
+Graph-enabled genotyping in a comparative genomics framework
+
 [Crossword](https://github.com/USDA-ARS-GBRU/crossword)
 A genomics-enabled simulation language for design and optimization of breeding schemes and genetic mapping experiments
 
