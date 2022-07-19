@@ -9,7 +9,7 @@ A two-year fully funded position with possibility of extension.  Experimental ma
 A two-year fully funded position with possibility of extension.  Numerous high-quality genome sequences in hand to begin exploring the challenge presented by paralogous sub-genomes in a polyploid and possible solutions enabled by graph-based bioinformatics.  The researcher will also be encouraged to explore visualization techniques for genomics in a pangenomic context.
 
 #### Postdoctoral researcher in the genomics of pollinator biology 
-A two-year fully funded position with possibility of extension.  In collaboration with the USDA's [Honey Bee Lab](https://www.ars.usda.gov/southeast-area/baton-rouge-la/honeybeelab/), this position will focus on the genomics both domesticated bees and Apis genus as a whole.
+A two-year fully funded position with possibility of extension.  In collaboration with the USDA's [Honey Bee Lab](https://www.ars.usda.gov/southeast-area/baton-rouge-la/honeybeelab/), this position will focus on the genomics of both domesticated bees and Apis genus as a whole.
 
 ## Current group
 
