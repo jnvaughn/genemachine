@@ -1,6 +1,15 @@
 Our group is part of the USDA's Agricultural Research Service (ARS), and we are closely affiliated with the University of Georgia in Athens, Georgia.  We have lab-specific research interests but also contribute bioinformatic and design support for many ARS projects across the Southeastern United States.  Please contact us with questions, particularly if you are looking for graduate or postdoctoral experience that intersects crop improvement, genomics, and bioinformatics.  
 
-## People
+## Open Positions
+
+# Postdoctoral researcher in the pangenomics of deleterious crop alleles
+A two-year fully funded position with possibility of extension.  Experimental materials and sequencing data in hand to interrogate the effect of structural gene disruption on basic plant vigor.  Scientist will learn emerging bioinformatic techniques in graph-based genetics/genomics and genomic selection.
+
+# Postdoctoral researcher in graph-based genotyping and genetic analysis of polyploids 
+A two-year fully funded position with possibility of extension.  Numerous high-quality genome sequences in hand to begin exploring the challenge presented by paralogous sub-genomes in a polyploid and possible solutions enabled by graph-based bioinformatics.  The researcher will also be encouraged to explore visualization techniques for genomics in a pangenomic context.
+
+
+## Current group
 
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) |
 | :---: | :---: |
