@@ -2,10 +2,10 @@ Our group is part of the USDA's Agricultural Research Service (ARS), and we are 
 
 ## Open Positions
 
-# Postdoctoral researcher in the pangenomics of deleterious crop alleles
+### Postdoctoral researcher in the pangenomics of deleterious crop alleles
 A two-year fully funded position with possibility of extension.  Experimental materials and sequencing data in hand to interrogate the effect of structural gene disruption on basic plant vigor.  Scientist will learn emerging bioinformatic techniques in graph-based genetics/genomics and genomic selection.
 
-# Postdoctoral researcher in graph-based genotyping and genetic analysis of polyploids 
+### Postdoctoral researcher in graph-based genotyping and genetic analysis of polyploids 
 A two-year fully funded position with possibility of extension.  Numerous high-quality genome sequences in hand to begin exploring the challenge presented by paralogous sub-genomes in a polyploid and possible solutions enabled by graph-based bioinformatics.  The researcher will also be encouraged to explore visualization techniques for genomics in a pangenomic context.
 
 
