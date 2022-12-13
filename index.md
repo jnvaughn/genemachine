@@ -58,5 +58,5 @@ Software for iterative genotyping design in a QTL-seq experiment
 [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (now at [HudsonAlpha](https://www.hudsonalpha.org/))
 
 ## The Basic Idea
-<img src="pics/wFile.jpeg">
+<img src="pics/wFile.png">
 by Waylon Vaughn
