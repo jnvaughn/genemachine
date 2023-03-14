@@ -22,4 +22,4 @@ Timothy Brenneman, UGA
 
 Anna McClung, USDA-ARS
 
-[Return to home page](http://genemachine.net)
+[Return to home page](https://genemachine.net)
