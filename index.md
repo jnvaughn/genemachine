@@ -19,11 +19,11 @@ A two-year fully funded position with possibility of extension.  In collaboratio
 
 | [Gene annotation and effect prediction in pan-genomic context](./pages/panGenome.md) | [Historical genomics of complex traits in soybean and rice](./pages/histGenomics.md) | [Gene Sieve: Fully exploiting model systems for gene identification](./pages/leapFrog.md) |
 | :---: | :---: | :---: |
-| ![alt text](./pics/iQTLPic1.png "White mold") | ![alt text](./pics/histGenPic1.png "Haplotypes through the ages") | ![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs") |
+| ![alt text](./pics/panGenome.png "Pangenome tube") | ![alt text](./pics/histGenPic1.png "Haplotypes through the ages") | ![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs") |
 
 | [Iterative QTL-seq applied to multi-genic traits in peanut and rice](./pages/iQTL.md) | [Simulation and visualization of controlled crosses](./pages/simAndVis.md)  | [Fast-forward genetics in sorghum and peach](./pages/ffGenetics.md) |
 | :---: | :---: | :---: |
-| ![alt text](./pics/panGenome.png "Pangenome tube") | ![alt text](./pics/simVis1.png "Biparental cross") | ![alt text](./pics/ffGenePic1.png "Peach Sports") |
+| ![alt text](./pics/iQTLPic1.png "White mold") | ![alt text](./pics/simVis1.png "Biparental cross") | ![alt text](./pics/ffGenePic1.png "Peach Sports") |
 
 ## Publications
 [Google Scholar summary](https://scholar.google.com/citations?hl=en&user=Udhv0SkAAAAJ&view_op=list_works&sortby=pubdate)
