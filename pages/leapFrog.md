@@ -12,4 +12,4 @@ This project will involve aggregation of genome-wide association data from seven
 
 Maria Monteros, Noble Research Institute
 
-[Return to home page](http://genemachine.net)
+[Return to home page](https://genemachine.net)
