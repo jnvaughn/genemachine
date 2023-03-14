@@ -12,4 +12,4 @@ To address this need, we are working on a breeding simulation language, called â
 
 Korani W, Vaughn JN. Crossword: A data-driven simulation language for the design of genetic-mapping experiments and breeding strategies. Scientific Reports. 2019;9: 4386. doi:10.1038/s41598-018-38348-y
 
-[Return to home page](http://genemachine.net)
+[Return to home page](https://genemachine.net)
