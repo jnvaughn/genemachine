@@ -23,4 +23,4 @@ Anna McClung, USDA-ARS
 
 Jeremy Edwards, USDA-ARS
 
-[Return to home page](http://genemachine.net)
+[Return to home page](https://genemachine.net)
