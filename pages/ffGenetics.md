@@ -14,4 +14,4 @@ Karen Davis, USDA-ARS
 
 Chunxian Chen, USDA-ARS
 
-[Return to home page](http://genemachine.net)
+[Return to home page](https://genemachine.net)
