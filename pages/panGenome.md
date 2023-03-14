@@ -13,4 +13,4 @@ Zhao Q, Feng Q, Lu H, Li Y, Wang A, Tian Q, et al. Pan-genome analysis highlight
 
 Brian Scheffler, USDA-ARS
 
-[Return to home page](http://genemachine.net)
+[Return to home page](https://genemachine.net)
