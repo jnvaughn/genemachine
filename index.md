@@ -11,9 +11,9 @@ A two-year fully funded position with possibility of extension.  In collaboratio
 | :---: | :---: | :---: |
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) | [Brian Abernathy, Bioinformatician](https://scholar.google.com/citations?user=D6omdmYAAAAJ) |
 
-| ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
+| ![alt text](./pics/dhanu.png "Dhanushya Ramachandran") | ![alt text](./pics/rick_field.png "Rick Field") | ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
 | :---: |
-| [Sameer Pokhrel, Graduate Researcher](https://scholar.google.com/citations?user=AEdXNxkAAAAJ&hl=en&oi=ao) |
+| [Dhanushya Ramachandran, Postdoctoral Researcher]() | [Rick Field, Postdoctoral Researcher]() | [Sameer Pokhrel, Graduate Researcher](https://scholar.google.com/citations?user=AEdXNxkAAAAJ&hl=en&oi=ao) |
 
 ## Projects
 
