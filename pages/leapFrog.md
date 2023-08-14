@@ -10,6 +10,6 @@ This project will involve aggregation of genome-wide association data from seven
 	
 ## Collaborators
 
-Maria Monteros, Noble Research Institute
+[Chengkai Li](https://idir.uta.edu/cli.html), Universtiy of Texas, Arlington
 
 [Return to home page](https://genemachine.net)
