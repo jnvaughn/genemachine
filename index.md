@@ -7,12 +7,12 @@ A two-year fully funded position with possibility of extension.  In collaboratio
 
 ## Current group
 
-| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/andrew_ontano.png "Andrew Ontano") | ![alt text](./pics/dhanu.png "Dhanushya Ramachandran") | [Dhanushya Ramachandran, Postdoctoral Researcher]() |
+| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/andrew_ontano.png "Andrew Ontano") | ![alt text](./pics/dhanu.png "Dhanushya Ramachandran") | 
 | :---: | :---: | :---: |
-| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) |
+| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) | [Dhanushya Ramachandran, Postdoctoral Researcher]() |
 
 | ![alt text](./pics/rick_field.png "Rick Field") | ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
-| :---: | :---: | :---: |
+| :---: | :---: | 
 | [Rick Field, Postdoctoral Researcher]() | [Sameer Pokhrel, Graduate Researcher](https://scholar.google.com/citations?user=AEdXNxkAAAAJ&hl=en&oi=ao) |
 
 ## Projects
