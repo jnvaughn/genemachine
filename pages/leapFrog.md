@@ -7,6 +7,8 @@ Genetic variants are differences between individuals in a species that occur at 
 Causal genes are identified using controlled crosses and mapping populations.  The limited scale of such experiments often results in hundreds of candidate genes.  Further refinement of this list is generally based on prioritizing mutations by how they affect their encoded protein.  While the protein-centric approach is useful, many crop species now possess a wealth of additional genomic and genome-wide association data that can assist in prioritizing candidate genes.  In addition, with the availability of numerous high-quality plant genomes, conservation across evolutionary time should be a major consideration in this effort.  There is currently no available tool in crop genomics that integrates such data and allows a plant geneticist to upload a list of possible genetic variants and get back a list of best candidate genes based on a trait of interest.
 
 This project will involve aggregation of genome-wide association data from seven cornerstone species: Arabidopsis thaliana, rice, maize, soybean, Medicago truncatula, sorghum, and tomato, which all have stable genome sequences, extensive phenotypic data, and are broadly distributed across flowering plants.  Using a novel approach to phenotypic deposition, we plan to be able to compare QTL across species in order to make candidate-gene identification much more efficient.
+
+See a [demo visualization](https://idir.uta.edu/genesieve_visualization/)!
 	
 ## Collaborators
 
