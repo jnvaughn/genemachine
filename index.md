@@ -7,9 +7,9 @@ A two-year fully funded position with possibility of extension.  In collaboratio
 
 ## Current group
 
-| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/andrew_ontano.png "Andrew Ontano") | ![alt text](./pics/abernathy_2.png "Brian Abernathy") |
+| ![alt text](./pics/jnvPic1.png "Justin Vaughn") | ![alt text](./pics/andrew_ontano.png "Andrew Ontano") | 
 | :---: | :---: | :---: |
-| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) | [Brian Abernathy, Bioinformatician](https://scholar.google.com/citations?user=D6omdmYAAAAJ) |
+| [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) |
 
 | ![alt text](./pics/dhanu.png "Dhanushya Ramachandran") | ![alt text](./pics/rick_field.png "Rick Field") | ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
 | :---: | :---: | :---: |
@@ -44,6 +44,8 @@ Software for iterative genotyping design in a QTL-seq experiment
 [Xuewen Wang, Research Associate](https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en) (now at [Center for Human Identification](https://www.unthsc.edu/center-for-human-identification/))
 
 [Brian Nadon, Postdoctoral Research Associate](https://www.linkedin.com/in/brian-nadon-3b205470) (now at [Thermo Fisher Scientific](https://www.linkedin.com/company/thermo-fisher-scientific?trk=public_profile_topcard-current-company))
+
+[Brian Abernathy, Bioinformatician](https://github.com/brianabernathy) (now at [Wild Peanut Lab, UGA](https://wildpeanutlab.uga.edu/people/)) 
 
 [Walid Korani, Postdoctoral Research Associate](https://github.com/w-korani) (now at [HudsonAlpha](https://www.hudsonalpha.org/))
 
