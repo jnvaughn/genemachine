@@ -21,9 +21,9 @@ A two-year fully funded position with possibility of extension.  In collaboratio
 | :---: | :---: | :---: |
 | ![alt text](./pics/panGenome.png "Pangenome tube") | ![alt text](./pics/histGenPic1.png "Haplotypes through the ages") | ![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs") |
 
-| [Iterative QTL-seq applied to multi-genic traits in peanut and rice](./pages/iQTL.md) | [Simulation and visualization of controlled crosses](./pages/simAndVis.md)  | [Fast-forward genetics in sorghum and peach](./pages/ffGenetics.md) |
+| [Iterative QTL-seq applied to multi-genic traits in peanut and rice](./pages/iQTL.md) | [Simulation and visualization of controlled crosses](./pages/simAndVis.md)  | [Agrivoltaics for southeastern US vegetable production](./pages/agrivoltaics.md) |
 | :---: | :---: | :---: |
-| ![alt text](./pics/iQTLPic1.png "White mold") | ![alt text](./pics/simVis1.png "Biparental cross") | ![alt text](./pics/ffGenePic1.png "Peach Sports") |
+| ![alt text](./pics/iQTLPic1.png "White mold") | ![alt text](./pics/simVis1.png "Biparental cross") | ![alt text](./pics/agrivoltaics_1.png "Agrivoltaics") |
 
 ## Publications
 [Google Scholar summary](https://scholar.google.com/citations?hl=en&user=Udhv0SkAAAAJ&view_op=list_works&sortby=pubdate)
