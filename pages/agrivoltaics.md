@@ -10,6 +10,8 @@ Another explanation to the “shade-cloth” paradox is that crops will perform 
 
 These growing systems are quite different from open fields, where crops have been historically selected.  In addition to structural aspects above, we want to know if differential performance in high-tunnels has a genetic basis and, if so, what are those underlying genes.
 
+[Contact us](mailto:jnvaughn@uga.edu) for a site visit.
+
 <img src="../pics/agrivoltaics_2.png">
 
 ## Collaborators
