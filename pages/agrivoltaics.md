@@ -1,5 +1,7 @@
 # Agrivoltaics for southeastern US vegetable production
 
+<img src="../pics/agrivoltaics_2.png">
+
 ## Project Summary
 
 Though high-tunnels have numerous agronomic benefits, they also require large upfront costs. Moreover, to manage summer temperatures, active ventilation and, therefore, an energy source are required.  We are evaluating photovoltaic high-tunnel designs that would eliminate the logistical and financial burden of electric grid and water-well installation.  Indeed, as electric farm machinery comes online, we look forward to farming systems that produce all the energy they require, while maintaining current crop yields.
@@ -11,8 +13,6 @@ When attempting to balance light availability and growth, conventional solar pan
 These growing systems are quite different from open fields, where crops have been historically selected.  In addition to structural aspects above, we want to know if differential performance in high-tunnels has a genetic basis and, if so, what are those underlying genes.
 
 [Contact us](mailto:jnvaughn@uga.edu) for a site visit.
-
-<img src="../pics/agrivoltaics_2.png">
 
 ## Collaborators
 
