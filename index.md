@@ -19,7 +19,7 @@ A two-year fully funded position with possibility of extension.  In collaboratio
 
 | [Gene annotation and effect prediction in pan-genomic context](./pages/panGenome.md) | [Historical genomics of complex traits in soybean and rice](./pages/histGenomics.md) | [Gene Sieve: Fully exploiting model systems for gene identification](./pages/leapFrog.md) |
 | :---: | :---: | :---: |
-| ![alt text](./pics/panGenome.png "Pangenome tube") | ![alt text](./pics/histGenPic1.png "Haplotypes through the ages") | ![alt text](./pics/leapFrogPic1.png "Arabidopsis orthologs") |
+| ![alt text](./pics/panGenome.png "Pangenome tube") | ![alt text](./pics/histGenPic1.png "Haplotypes through the ages") | ![alt text](./pics/leapFrogPic1.png "Graph") |
 
 | [Iterative QTL-seq applied to multi-genic traits in peanut and rice](./pages/iQTL.md) | [Simulation and visualization of controlled crosses](./pages/simAndVis.md)  | [Agrivoltaics for southeastern US vegetable production](./pages/agrivoltaics.md) |
 | :---: | :---: | :---: |
