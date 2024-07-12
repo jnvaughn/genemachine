@@ -6,7 +6,8 @@ Though “re-sequencing” hundreds of genomes now seems routine, these sequence
 	
 ## Relevant publications
 
-Zhao Q, Feng Q, Lu H, Li Y, Wang A, Tian Q, et al. Pan-genome analysis highlights the extent of genomic variation in cultivated and wild rice. Nature Genetics. 2018;50: 278.
+[Vaughn, J. N. et al. Graph-based pangenomics maximizes genotyping density and reveals structural impacts on fungal resistance in melon. Nat Commun 13, 7897 (2022).](https://www.nature.com/articles/s41467-022-35621-7)
+[Vaughn, J. N. et al. Gene disruption by structural mutations drives selection in US rice breeding over the last century. PLOS Genetics 17, e1009389 (2021).](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009389)
 
 
 ## Collaborators
