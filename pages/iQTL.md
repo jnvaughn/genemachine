@@ -10,7 +10,8 @@ In this project, we exploit the simplicity of QTL-seq to dramatically increase t
 	
 ## Relevant publications
 
-Takagi, H., Abe, A., Yoshida, K., Kosugi, S., Natsume, S., Mitsuoka, C., ... & Innan, H. (2013). QTL‐seq: rapid mapping of quantitative trait loci in rice by whole genome resequencing of DNA from two bulked populations. The Plant Journal, 74(1), 174-183.
+[Vaughn, J. N., Korani, W., Clevenger, J. & Ozias-Akins, P. Agile Genetics: Single gene resolution without the fuss. BioEssays n/a, 2300206.](https://onlinelibrary.wiley.com/doi/full/10.1002/bies.202300206)
+
 
 ## Collaborators
 
