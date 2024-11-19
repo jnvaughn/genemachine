@@ -11,9 +11,9 @@ A two-year fully funded position with possibility of extension.  In collaboratio
 | :---: | :---: | :---: |
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) | [Dhanushya Ramachandran, Postdoctoral Researcher]() |
 
-| ![alt text](./pics/rick_field.png "Rick Field") | ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
-| :---: | :---: | 
-| [Rick Field, Postdoctoral Researcher]() | [Sameer Pokhrel, Graduate Researcher](https://scholar.google.com/citations?user=AEdXNxkAAAAJ&hl=en&oi=ao) |
+| ![alt text](./pics/rConrad.png "Roth Conrad") | ![alt text](./pics/rick_field.png "Rick Field") | ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
+| :---: | :---: | :---: | 
+| [Roth Conrad, Postdoctoral Researcher](https://github.com/rotheconrad) | [Rick Field, Postdoctoral Researcher]() | [Sameer Pokhrel, Graduate Researcher](https://scholar.google.com/citations?user=AEdXNxkAAAAJ&hl=en&oi=ao) |
 
 ## Projects
 
