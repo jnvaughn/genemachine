@@ -4,7 +4,7 @@ Scientist in Residence
 HudsonAlpha Insitute of Biotechnology  
 Adjunct Faculty - PBGG, University of Georgia, Athens
 CAGT Building, 111 Riverbend Rd, Athens, GA 30602 
-juvaughn@hudsonalpha.org  
+juvaughn@hudsonalpha.org 
 (706) 546-3185 
 genemachine.net  
 
