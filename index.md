@@ -6,9 +6,9 @@ Our group is part of the HudsonAlpha Institute of Biotechnology, and we are clos
 | :---: | :---: | :---: |
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) | [Dhanushya Ramachandran, Postdoctoral Researcher]() |
 
-| ![alt text](./pics/rConrad.png "Roth Conrad") | ![alt text](./pics/rick_field.png "Rick Field") | ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
+| ![alt text](./pics/rConrad.png "Roth Conrad") | ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
 | :---: | :---: | :---: | 
-| [Roth Conrad, Postdoctoral Researcher](https://github.com/rotheconrad) | [Rick Field, Postdoctoral Researcher]() | [Sameer Pokhrel, Graduate Researcher](https://scholar.google.com/citations?user=AEdXNxkAAAAJ&hl=en&oi=ao) |
+| [Roth Conrad, Postdoctoral Researcher](https://github.com/rotheconrad) | [Sameer Pokhrel, Graduate Researcher](https://scholar.google.com/citations?user=AEdXNxkAAAAJ&hl=en&oi=ao) |
 
 ## Projects
 
@@ -35,6 +35,7 @@ A genomics-enabled simulation language for design and optimization of breeding s
 Software for iterative genotyping design in a QTL-seq experiment
 
 ## Former Members
+[Rick Field, Postdoctoral Researcher]() (now at []())
 
 [Xuewen Wang, Research Associate](https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en) (now at [Center for Human Identification](https://www.unthsc.edu/center-for-human-identification/))
 
