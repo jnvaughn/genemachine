@@ -7,7 +7,7 @@ Our group is part of the HudsonAlpha Institute of Biotechnology, and we are clos
 | [Justin Vaughn, Principal Investigator](./pages/jnvBio.md) | [Andrew Ontano, Postdoctoral Researcher](https://scholar.google.com/citations?user=sB6Y-j8AAAAJ&hl=en&oi=sra) | [Dhanushya Ramachandran, Postdoctoral Researcher]() |
 
 | ![alt text](./pics/rConrad.png "Roth Conrad") | ![alt text](./pics/sameerPic.png "Sameer Pokhrel") |
-| :---: | :---: | :---: | 
+| :---: | :---: |
 | [Roth Conrad, Postdoctoral Researcher](https://github.com/rotheconrad) | [Sameer Pokhrel, Graduate Researcher](https://scholar.google.com/citations?user=AEdXNxkAAAAJ&hl=en&oi=ao) |
 
 ## Projects
