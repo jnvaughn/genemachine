@@ -35,7 +35,7 @@ A genomics-enabled simulation language for design and optimization of breeding s
 Software for iterative genotyping design in a QTL-seq experiment
 
 ## Former Members
-[Rick Field, Postdoctoral Researcher]() (now at []())
+[Rick Field, Postdoctoral Researcher]() (now at [University of Georgia, Department of Plant Biology](https://www.plantbio.uga.edu))
 
 [Xuewen Wang, Research Associate](https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en) (now at [Center for Human Identification](https://www.unthsc.edu/center-for-human-identification/))
 
