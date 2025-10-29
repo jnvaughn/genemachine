@@ -1,9 +1,4 @@
-Our group is part of the USDA's Agricultural Research Service (ARS), and we are closely affiliated with the University of Georgia in Athens, Georgia.  We have lab-specific research interests but also contribute bioinformatic and design support for many ARS projects across the Southeastern United States.  Please [contact us](mailto:jnvaughn@uga.edu) with questions, particularly if you are looking for graduate or postdoctoral experience that intersects crop improvement, genomics, and bioinformatics.  
-
-## Open Positions
-
-#### Postdoctoral researcher in the genomics of pollinator biology 
-A two-year fully funded position with possibility of extension.  In collaboration with the USDA's [Honey Bee Lab](https://www.ars.usda.gov/southeast-area/baton-rouge-la/honeybeelab/), this position will focus on the genomics of both domesticated bees and Apis genus as a whole.
+Our group is part of the HudsonAlpha Institute of Biotechnology, and we are closely affiliated with the University of Georgia in Athens, Georgia.  We have lab-specific research interests but also contribute bioinformatic and design support for many projects across the Southeastern United States.  Please [contact us](mailto:juvaughn@hudsonalpha.org) with questions, particularly if you are looking for graduate or postdoctoral experience that intersects crop improvement, genomics, and bioinformatics.  
 
 ## Current group
 
