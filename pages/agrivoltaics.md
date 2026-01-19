@@ -4,7 +4,7 @@
 
 ## Project Summary
 
-See our [Agrivoltaic Calculator](https://gbru-ars.shinyapps.io/AgrivoltaicValueCalculator/) to help growers evaluate the costs and benefits of agrivoltaics, growth-shelters, and hybrid systems.
+See our [Agrivoltaic Calculator](https://gbru-ars.shinyapps.io/AgrivoltaicValueCalculator/) for helping growers evaluate the costs and benefits of agrivoltaics, growth-shelters, and hybrid systems.
 
 Though high-tunnels have numerous agronomic benefits, they also require large upfront costs. Moreover, to manage summer temperatures, active ventilation and, therefore, an energy source are required.  We are evaluating photovoltaic high-tunnel designs that would eliminate the logistical and financial burden of electric grid and water-well installation.  Indeed, as electric farm machinery comes online, we look forward to farming systems that produce all the energy they require, while maintaining current crop yields.
 
