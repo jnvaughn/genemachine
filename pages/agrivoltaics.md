@@ -4,6 +4,8 @@
 
 ## Project Summary
 
+See our [Agrivoltaic Calculator](https://gbru-ars.shinyapps.io/AgrivoltaicValueCalculator/) to help growers evaluate the costs and benefits of agrivoltaics, growth-shelters, and hybrid systems.
+
 Though high-tunnels have numerous agronomic benefits, they also require large upfront costs. Moreover, to manage summer temperatures, active ventilation and, therefore, an energy source are required.  We are evaluating photovoltaic high-tunnel designs that would eliminate the logistical and financial burden of electric grid and water-well installation.  Indeed, as electric farm machinery comes online, we look forward to farming systems that produce all the energy they require, while maintaining current crop yields.
 
 To achieve these competing goals, solar power production cannot adversely affect crops.  Interestingly, most crops receive more sun than they can convert to chemical energy.  This gap is most extreme around noon, when extreme solar radiation can actually be detrimental.  Still, all crops show reductions in yield related to hard-shading seen in other conventional agrivoltaic environments.  We find this observation odd given that, in high tunnel environments, growers often provide additional shade to improve marketable yields. We suspect this paradox is a product of the improved growing conditions counterbalanced by reduced light. Regardless, this situation suggest that we can exploit the light “surplus” for energy production, while maintaining or even improving yields.
